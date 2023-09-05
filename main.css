@@ -9,7 +9,7 @@
 .header_Top {
     height: 60px;
     background-color: black;
-    color: rgb(200, 200, 200);
+    color: #c8c8c8;
     display: flex;
     justify-content: space-between;
     align-items: center;
@@ -56,8 +56,7 @@
 
 #Header_Center_Icon div:hover {
     background-color: rgba(90, 93, 93, 0.3);
-    /* border-bottom: solid 5px #3a88f5;
-    color: rgb(58, 136, 245); */
+
 
 }
 
