@@ -54,6 +54,7 @@
 
 }
 
+
 #Header_Center_Icon div:hover {
     background-color: rgba(90, 93, 93, 0.3);
 
@@ -79,4 +80,9 @@
 
 .right_Icon div:hover {
     background-color: #ffffff26;
+}
+
+.active {
+    border-bottom: 2px solid #00aaff;
+    color: #00aaff;
 }
